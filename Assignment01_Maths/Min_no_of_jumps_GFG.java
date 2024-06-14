@@ -17,8 +17,8 @@ public class Min_no_of_jumps_GFG {
         while(x<arr.length-1){
             x+=arr[x];
             c++;
-            .
         }
+        //2 2 0 3
         return c;
 
 
