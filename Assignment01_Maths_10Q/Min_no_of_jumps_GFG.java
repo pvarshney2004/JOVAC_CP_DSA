@@ -1,4 +1,4 @@
-package Assignment01_Maths;
+package Assignment01_Maths_10Q;
 
 public class Min_no_of_jumps_GFG {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Min_no_of_jumps_GFG {
         int n=6;
         int ans = jumps(arr,n);
         System.out.println(ans);
-
+        .
     }
     public static int jumps(int[] arr, int n){
         if(arr[0]==0){

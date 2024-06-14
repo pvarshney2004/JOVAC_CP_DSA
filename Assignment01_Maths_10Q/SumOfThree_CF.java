@@ -1,4 +1,4 @@
-package Assignment01_Maths;
+package Assignment01_Maths_10Q;
 import java.util.*;
 //1886A
 public class SumOfThree_CF {

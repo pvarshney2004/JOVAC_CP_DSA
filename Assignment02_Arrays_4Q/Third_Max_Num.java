@@ -1,4 +1,4 @@
-package Assignment02_Arrays;
+package Assignment02_Arrays_4Q;
 
 public class Third_Max_Num {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Assignment01_Maths;
+package Assignment01_Maths_10Q;
 import java.util.*;
 public class Game_with_Integers_CF {
     //1899A

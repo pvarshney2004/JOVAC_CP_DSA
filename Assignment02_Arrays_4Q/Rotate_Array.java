@@ -1,4 +1,4 @@
-package Assignment02_Arrays;
+package Assignment02_Arrays_4Q;
 import java.util.*;
 public class Rotate_Array {
     public static void main(String[] args) {

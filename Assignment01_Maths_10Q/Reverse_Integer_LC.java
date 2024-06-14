@@ -1,4 +1,4 @@
-package Assignment01_Maths;
+package Assignment01_Maths_10Q;
 
 public class Reverse_Integer_LC {
     public static void main(String[] args) {

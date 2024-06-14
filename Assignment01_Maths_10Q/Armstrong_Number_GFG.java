@@ -1,4 +1,4 @@
-package Assignment01_Maths;
+package Assignment01_Maths_10Q;
 
 public class Armstrong_Number_GFG {
     public static void main(String[] args) {
