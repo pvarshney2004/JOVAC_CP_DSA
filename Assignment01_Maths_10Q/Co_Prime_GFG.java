@@ -1,6 +1,6 @@
 package Assignment01_Maths_10Q;
 
-public class Co_Prime {
+public class Co_Prime_GFG {
     public static void main(String[] args) {
         int[] arr = {5,10,20};
         System.out.println(coPrime(arr));
